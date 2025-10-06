@@ -43,6 +43,6 @@ This project visually represents a traffic signal light. Each color represents s
 ---
 
 ## ✨ Author
-Created by **Hasan Al-Mahdi (Mahdi)**
+Created by **Hasan Al Mahdi**
 
 Feel free to improve the design, add animations, or make it responsive!
